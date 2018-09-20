@@ -36,17 +36,17 @@ public class Calculate {
 
 	public static int sub(int x, int y) {
 
-		return 0;
+		return x-y;
 	}
 
 	public static int mul(int x, int y) {
 
-		return 0;
+		return x*y;
 	}
 
 	public static double div(int x, int y) {
 		// �떎�닔濡� 諛섑솚�씠 �릺�룄濡� 援ы쁽
 
-		return 0;
+		return x/y;
 	}
 }
